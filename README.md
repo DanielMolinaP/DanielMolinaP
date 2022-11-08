@@ -1,5 +1,4 @@
-<img src="https://github.com/masterchip14" alt="hello world"/>
-
+<!-- <img src="https://github.com/masterchip14" alt="hello world"/> -->
 
 <h1 align="center">Hi 👋, I'm Daniel Molina</h1>
 
