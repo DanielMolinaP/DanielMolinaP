@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Molina</h1>
 
 
-<h3 align="center">I am 23 years old Mexico who loves video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2021 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
+<h3 align="center">I am 23 years old, I love video-games and technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2021 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 
 ```javascript
 const aboutMe = {
@@ -18,8 +18,7 @@ const aboutMe = {
          js: ["Node", "Express"]
       },
       databases: ["MongoDB", "PostgreSQL"],
-   },
-   currentOccupation: ["Tech Instructor at Henry"],
+   }
 };
 ```
 
